@@ -31,4 +31,4 @@ Public airline satisfaction dataset
 ## Project Report
 Detailed analysis and visualizations are available in the Word report file.
 
-[Download Report](./Airline_Customer_Satisfaction_Report.docx)
+[Download Report](./report.docx)
