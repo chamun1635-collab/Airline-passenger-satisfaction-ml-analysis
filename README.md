@@ -28,3 +28,7 @@ This project analyzes 100,000+ airline customer records to identify key factors 
 
 
 Public airline satisfaction dataset
+## Project Report
+Detailed analysis and visualizations are available in the Word report file.
+
+[Download Report](./Airline_Customer_Satisfaction_Report.docx)
